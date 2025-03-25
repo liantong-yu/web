@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://github.com/liantong-yu/web/blob/861a8e646ebedf026c81cd08fc2a8828359564f6/assets/Curriculum_Vitae.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 
-<a href="https://github.com/liantong-yu/web/blob/861a8e646ebedf026c81cd08fc2a8828359564f6/assets/Curriculum_Vitae.pdf" target="_blank"></a>
+You can find my CV here: [YU Liantong's CV](../assets/Curriculum_Vitae.pdf).
