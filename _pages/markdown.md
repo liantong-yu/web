@@ -1,12 +1,11 @@
 ---
+title:"Education"
 permalink: /markdown/
 author_profile: true
-title:"Education"
 redirect_from: 
   - /md/
   - /markdown.html
----
-
+---  
 
 ### The Hong Kong Polytechnic University --- Advisor: Qingqing Ye 
 *PhD in  Electrical and Electronic Engineering*  
