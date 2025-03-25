@@ -1,10 +1,10 @@
 ---
-title: "Education"
+title: "Publication"
 permalink: /markdown/
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /pabulications.html
 ---  
 
 ### The Hong Kong Polytechnic University --- Advisor: Qingqing Ye 
