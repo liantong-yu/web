@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Currently I am a second year PhD student of  Department of Electrical and Electronic Engineering in The Hong Kong Polytechnic University and a member of [ASTAPLE](https://www.astaple.com/) Group.  
+Currently I am a second year PhD student of  Department of Electrical and Electronic Engineering in The Hong Kong Polytechnic University and a member of [ASTAPLE](https://www.astaple.com/) Group. My main research interests include data privacy and security, with a focus on Local Differential Privacy.    
 
 In June 2023, I received my B.Sc. degree from College of Automation Engineering in Nanjing University of Aeronautics and Astronautics.  
 
