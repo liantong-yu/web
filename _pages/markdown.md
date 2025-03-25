@@ -6,11 +6,11 @@ redirect_from:
   - /markdown.html
 ---
 ### The Hong Kong Polytechnic University
-*PhD in  Electrical and Electronic Engineering* &nbsp&nbsp&nbsp Advisor: Qingqing Ye  
+*PhD in  Electrical and Electronic Engineering* &nbsp；&nbsp；&nbsp； Advisor: Qingqing Ye  
 *Jan 2024–*
 
 ### The Hong Kong Polytechnic University
-*Research Assistant in  Electrical and Electronic Engineering*&nbsp&nbsp&nbsp Advisor: Qingqing Ye  
+*Research Assistant in  Electrical and Electronic Engineering* &nbsp；&nbsp；&nbsp； Advisor: Qingqing Ye  
 *Aug 2023–Dec 2023*  
 
 ### Nanjing University of Aeronautics and Astronautics  
