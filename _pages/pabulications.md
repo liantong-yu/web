@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-permalink: /pabulications/
+permalink: /publications/
 author_profile: true
 redirect_from: 
   - /md/
