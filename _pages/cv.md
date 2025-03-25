@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-You can find my CV here: [YU Liantong's CV](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [YU Liantong's CV](../files/Curriculum_Vitae.pdf).
