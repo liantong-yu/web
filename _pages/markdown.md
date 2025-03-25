@@ -1,5 +1,5 @@
 ---
-title:"Education"
+title: "Education"
 permalink: /markdown/
 author_profile: true
 redirect_from: 
