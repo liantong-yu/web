@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
 You can find my CV here: [YU Liantong's CV](../assets/Curriculum_Vitae.pdf).
