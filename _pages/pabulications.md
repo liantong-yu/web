@@ -9,12 +9,12 @@ redirect_from:
 
 ## Conference Papers
 
-1. **Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One Run** (USENIX'25)  
-   Zihang Xiang, <u>Tianhao Wang</u>, <u>Di Wang</u>
+**PrivRM: A Framework for Range Mean Estimation under Local Differential Privacy** (SIGMOD'25)  
+   <u>Liantong Yu<u>, Qingqing Ye, Rong Du.
 
-2. **White-box Membership Inference Attacks against Diffusion Models** (PETS'25)  
-   Yan Pang, Xuhui Kang, Mengdi Huai, Yang Zhang, <u>Tianhao Wang</u>
+**From Randomized Response to Randomized Index: Answering SubsetCounting Queries with Local Differential Privacy** (SP'25)  
+   Qingqing Ye, <u>Liantong Yu<u>, Kai Huang, Xiaokui Xiao, Weiran Liu, Haibo Hu.
 
-3. **SPAS: Continuous Release of Data Streams under w-Event Differential Privacy** (SIGMOD'25)  
+**Dual Utilization of Perturbation for Stream Data Publication under Local Differential Privacy** (ICDE'25)  
    Xiaochen Li, Tianyu Li, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, <u>Tianhao Wang</u>
 
