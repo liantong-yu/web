@@ -1,6 +1,7 @@
 ---
 permalink: /markdown/
 author_profile: true
+title:"Education"
 redirect_from: 
   - /md/
   - /markdown.html
