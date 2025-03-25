@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 redirect_from: 
   - /md/
-  - /pabulications.html
+  - /publications.html
 ---  
 
 ## Conference Papers
