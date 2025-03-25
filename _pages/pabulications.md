@@ -16,5 +16,5 @@ redirect_from:
    Qingqing Ye, <u>Liantong Yu</u>, Kai Huang, Xiaokui Xiao, Weiran Liu, Haibo Hu.
 
 **Dual Utilization of Perturbation for Stream Data Publication under Local Differential Privacy** (ICDE'25)  
-   Xiaochen Li, Tianyu Li, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, <u>Tianhao Wang</u>
+   Rong Du, Qingqing Ye, Yaxin Xiao, <u>Liantong Yu</u>, Yue Fu, Haibo Hu.
 
