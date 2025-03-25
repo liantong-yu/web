@@ -1,6 +1,6 @@
 ---
 title: "Education"
-permalink: /markdown/
+permalink: /education/
 author_profile: true
 redirect_from: 
   - /md/
