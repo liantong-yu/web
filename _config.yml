@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu Liantong"
+title                    : "YU Liantong"
 title_separator          : "-"
-name                     : &name "Yu Liantong"
+name                     : &name "YU Liantong"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "111"
   location         : "Hong Kong SAR, China"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : "PolyU"
   uri              : # URL
   email            : "liantong2001.yu@connect.polyu.hk" 
 
