@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 You can find my CV here: [YU Liantong's CV](https://github.com/liantong-yu/web/blob/master/files/Curriculum_Vitae.pdf).
- <div>
-     This is an HTML <b>element</b>.
- </div>
+
