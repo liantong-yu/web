@@ -12,4 +12,4 @@ Currently I am a second year PhD student of  Department of Electrical and Electr
 
 In June 2023, I received my B.Sc. degree from College of Automation Engineering in Nanjing University of Aeronautics and Astronautics.  
 
-I am very fortunate to be advised by  [Prof. YE Qingqing](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ye-qingqing/).
+I am very fortunate to be advised by  [Prof. YE Qingqing](https://www.qingqingye.net).
