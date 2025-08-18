@@ -18,3 +18,5 @@ redirect_from:
 **Dual Utilization of Perturbation for Stream Data Publication under Local Differential Privacy** (ICDE'25--CCF A)  
    Rong Du, Qingqing Ye, Yaxin Xiao, <u>Liantong Yu</u>, Yue Fu, Haibo Hu.
 
+**How Much Do Large Language Model Cheat on Evaluation? Benchmarking Overestimation under the One-Time-Pad-Based Framework** (arXiv)  
+   Zi Liang, <u>Liantong Yu</u>, Shiyu Zhang, Qingqing Ye, Haibo Hu.
